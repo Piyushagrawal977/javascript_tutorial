@@ -1,2 +1,3 @@
 # javascript_tutorial
-A code repo for javascript
+A code repo for javascript tutorial
+
